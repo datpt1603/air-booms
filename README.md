@@ -1,6 +1,6 @@
-# Share tool auto tap 1win Token uses nodejs
+# Share tool auto tap Booms uses nodejs
 
-## 👉 Link 1win Token : [Click](http://t.me/token1win_bot/start?startapp=refId673750261)
+## 👉 Link Booms : [Click](https://t.me/booms_io_bot/start?startapp=bro673750261)
 
 ✔️ Auto tab
 
@@ -12,7 +12,7 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 npm install
-npm run start or node 1win.js
+npm run start or node booms.js
 ```
 
 ## Channel telegram
